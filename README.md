@@ -1,2 +1,2 @@
-# TanosTelephone1
-N A T U R A L
+# Egor Dronzhevskiy 2-PytKB-9
+
